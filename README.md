@@ -9,7 +9,9 @@ Feel free to explore my profile ₍ᐢ.  ̫   .ᐢ₎
 
 ## ✮⋆˙My statistics ✮⋆˙
 
-![EstherAires's github stats](https://github-readme-stats.vercel.app/api?username=EstherAires&show_icons=true&theme=tokyonight)       
+![EstherAires's github stats](https://github-readme-stats.vercel.app/api?username=EstherAires&show_icons=true&theme=tokyonight)
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstherAires&theme=tokyonight" alt="mystreak"/>
 
 
